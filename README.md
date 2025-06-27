@@ -1,4 +1,4 @@
-# 🚀 DevOps EKS Portfolio
+# 🚀 DevOps EKS
 
 A battle-tested, enterprise-grade DevOps portfolio project, purpose-built to showcase best practices and real-world deployment pipelines in a modern cloud-native environment. Designed for engineers aspiring to master infrastructure as code, Kubernetes orchestration, and robust CI/CD workflows, this project reflects 20+ years of industry experience in scalable systems engineering.
 
