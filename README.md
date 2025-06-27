@@ -4,7 +4,7 @@ A battle-tested, enterprise-grade DevOps portfolio project, purpose-built to sho
 
 ---
 
-## 📂 Repository: `devops-eks-portfolio`
+## 📂 Repository: `devops-eks`
 
 This repository demonstrates the following advanced concepts:
 
